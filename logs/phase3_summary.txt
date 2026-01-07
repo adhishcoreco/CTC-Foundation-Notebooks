@@ -1,0 +1,24 @@
+
+PHASE 3 TRAINING SUMMARY
+============================================================
+Total Epochs: 50
+Best Val Loss: 0.0691
+Final Train Loss: 0.1033
+Final Val Loss: 0.0734
+
+TEST SET PERFORMANCE
+============================================================
+Test Loss: 0.0953
+Test Accuracy: 86.27%
+Correct Predictions: 201/233
+
+DATASET BREAKDOWN
+============================================================
+Training Samples: 1116
+  - Single-word: 438
+  - 2-word: 90
+  - 3-word: 421
+
+Validation Samples: 198
+Test Samples: 233
+Total Samples: 1547

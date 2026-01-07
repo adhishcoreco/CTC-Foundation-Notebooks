@@ -1,0 +1,11 @@
+timestamp: 2026-01-06 17:58:00
+model_name: Phase3_SequenceRecognizer
+input_shape: (None, 720, 6)
+output_shape: (None, None, 8)
+vocab_size: 8
+batch_size: 16
+epochs_trained: 50
+final_test_accuracy: 86.26609442060087
+test_loss: 0.09531653672456741
+total_training_samples: 1116
+total_test_samples: 233
